@@ -50,6 +50,8 @@ The renewal form asks for information such as your contact information, project 
 
 3. If your renewal is approved, you will receive additional funding for your project.
 
+You can renew your grant if you totally consumed the previous one, or if your previous grant is not enough for the work you wanted to deliver.
+
 ## How the committee proceeds
 
 The committee meets `every 2 weeks` to review grant and renewal applications. The committee evaluates each application based on the criteria described above. The committee also takes into account the budget allocation provided by the Starknet foundation when making decisions.
