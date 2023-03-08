@@ -2,7 +2,7 @@
 name: Existing project grant renewal request template
 about: Template defining the expected data for renewing grants for existing projects
 title: "[RENEWAL] <Project X> grant renewal"
-labels: backlog
+labels: backlog, new project
 assignees: xflpt
 
 ---

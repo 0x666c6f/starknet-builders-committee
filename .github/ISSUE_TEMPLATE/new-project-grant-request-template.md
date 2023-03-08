@@ -2,7 +2,7 @@
 name: New project grant request template
 about: Template defining the expected data for requesting grants for new projects
 title: "[NEW] <Project X> grant request"
-labels: backlog
+labels: backlog, renewal
 assignees: xflpt
 
 ---
