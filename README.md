@@ -56,7 +56,7 @@ The committee meets every 2 weeks to review grant and renewal applications. The 
 
 ## Decisions
 
-The decisions made by the Only Dust Grants Committee are stored in the `decisions` directory of this repository. Each decision is saved as a separate markdown file and includes the list of projects that were reviewed, the budget allocation, and any other relevant information about the decision.
+The decisions made by the Only Dust Grants Committee are stored in the [`decisions`](/decisions) directory of this repository. Each decision is saved as a separate markdown file and includes the list of projects that were reviewed, the budget allocation, and any other relevant information about the decision.
 
 We appreciate your interest in the Starknet Builders Committee and look forward to receiving your grant applications. If you have any questions, please don't hesitate to contact us.
 
