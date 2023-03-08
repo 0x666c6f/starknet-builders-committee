@@ -16,19 +16,20 @@ The committee is currently composed of the following persons:
 
 The committee is not open to new members yet, but it will be in the future.
 
+## Criterias evaluated
+
+The following criterias will be considered for the application reviews:
+
+- The impact on the ecosystem refers to how your project will benefit the Starknet ecosystem. Your project should have a clear and measurable impact on the ecosystem, such as improving network performance or increasing user adoption for example.
+- Onboarding of new users refers to how easy it is for new users to use your project. Your project should have a clear presentation, as well as documentation, guides, and tutorials for new users.
+- Feasibility refers to how achievable your project is within the given budget and timeline. Your project should have a clear and realistic timeline, as well as a budget breakdown that shows how the funds will be used.
+- Alignment with the ecosystem strategy refers to how your project fits within the Starknet ecosystem strategy. Your project should align with the long-term goals of the ecosystem, such as improving scalability or enabling new use cases.
+
 ## How to apply for a grant
 
 To apply for a grant from Only Dust, please follow these steps:
 
 1. Review the criteria evaluated by the committee, which includes the impact on the ecosystem, onboarding of new users, feasibility, and alignment with the ecosystem strategy.
-
-The impact on the ecosystem refers to how your project will benefit the Starknet ecosystem. Your project should have a clear and measurable impact on the ecosystem, such as improving network performance or increasing user adoption for example.
-
-Onboarding of new users refers to how easy it is for new users to use your project. Your project should have a clear presentation, as well as documentation, guides, and tutorials for new users.
-
-Feasibility refers to how achievable your project is within the given budget and timeline. Your project should have a clear and realistic timeline, as well as a budget breakdown that shows how the funds will be used.
-
-Alignment with the ecosystem strategy refers to how your project fits within the Starknet ecosystem strategy. Your project should align with the long-term goals of the ecosystem, such as improving scalability or enabling new use cases.
 
 2. Fill out the application form, which can be found here: [insert link to the form here].
 
