@@ -1,6 +1,6 @@
-# Starknet Builders committee
+# Starknet builders committee
 
-Welcome to the Starknet Builders committee repository. This committee is designed to help open source projects within the Starknet ecosystem receive financing through grants. The grants are managed by Only Dust, and are funded by the Starknet foundation. The committee is composed of builders and major actors within the Starknet ecosystem.
+Welcome to the Starknet builders committee repository. This committee is designed to help open source projects within the Starknet ecosystem receive financing through grants. The grants are managed by Only Dust, and are funded by the Starknet foundation. The committee is composed of builders and major actors within the Starknet ecosystem.
 
 ## Members of the committee
 
@@ -16,7 +16,7 @@ The committee is currently composed of the following persons:
 
 The committee is not open to new members yet, but it will be in the future.
 
-## How to Apply for a Grant
+## How to apply for a grant
 
 To apply for a grant from Only Dust, please follow these steps:
 
@@ -38,7 +38,7 @@ The application form asks for information such as your contact information, proj
 
 4. If your application is approved, you will receive funding for your project.
 
-## How to Renew a Grant
+## How to renew a grant
 
 If you have previously received a grant from Only Dust and would like to renew your grant, please follow these steps:
 
@@ -50,15 +50,15 @@ The renewal form asks for information such as your contact information, project 
 
 3. If your renewal is approved, you will receive additional funding for your project.
 
-## How the Committee Proceeds
+## How the committee proceeds
 
 The committee meets `every 2 weeks` to review grant and renewal applications. The committee evaluates each application based on the criteria described above. The committee also takes into account the budget allocation provided by the Starknet foundation when making decisions.
 
 ## Decisions
 
-The decisions made by the Starknet Builders committee are stored in the [`decisions`](/decisions) directory of this repository. Each decision is saved as a separate markdown file and includes the list of projects that were reviewed, the budget allocation, and any other relevant information about the decision.
+The decisions made by the Starknet builders committee are stored in the [`decisions`](/decisions) directory of this repository. Each decision is saved as a separate markdown file and includes the list of projects that were reviewed, the budget allocation, and any other relevant information about the decision.
 
-We appreciate your interest in the Starknet Builders Committee and look forward to receiving your grant applications. If you have any questions, please don't hesitate to contact us.
+We appreciate your interest in the Starknet builders Committee and look forward to receiving your grant applications. If you have any questions, please don't hesitate to contact us.
 
 ## Contact
 
