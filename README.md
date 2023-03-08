@@ -1,6 +1,6 @@
 # Starknet Builders committee
 
-Welcome to the Starknet Builders committee repository. This committee is designed to help open source projects within the Starknet ecosystem receive financing through grants. This program is funded by the Starknet foundation, and the committee is composed of builders and major actors within the Starknet ecosystem.
+Welcome to the Starknet Builders committee repository. This committee is designed to help open source projects within the Starknet ecosystem receive financing through grants. The grants are managed by Only Dust, and are funded by the Starknet foundation. The committee is composed of builders and major actors within the Starknet ecosystem.
 
 ## Members of the committee
 
