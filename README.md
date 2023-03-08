@@ -34,7 +34,7 @@ Alignment with the ecosystem strategy refers to how your project fits within the
 
 The application form asks for information such as your contact information, project description, project timeline, budget requested, and other relevant information.
 
-3. Wait for the committee to review your application. Grants are allocated monthly, and need to be renewed.
+3. Wait for the committee to review your application.
 
 4. If your application is approved, you will receive funding for your project.
 
